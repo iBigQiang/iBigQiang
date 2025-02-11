@@ -19,11 +19,10 @@
 - 📫 Reach me - ibigqiang@gmail.com
 
 ### My latest online product：
-- [SEOhub.Tools](https://seohub.tools/)
-- [GoShr.link](https://goshr.link/)
-- [AIP.Tools](https://aip.tools/)
-- [AIPTool](https://aiptool.com/)
-- [AIPTool](https://goshr.link/)
+- [GoShr.link](https://goshr.link/)：Simple, fast and safe url link shortening tool, GoShr short URL tool makes links shorter.
+- [SEOhub.Tools](https://seohub.tools/)：Selection of the best Google SEO tools, software, and resources.
+- [AIP.Tools](https://aip.tools/)：Selected AI tools & high-quality resources for building brand IP.
+- [AIPTool](https://aiptool.com/)：2025 The Best AI Websites & Tools for Discovery.
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
