@@ -19,7 +19,7 @@
 - 📫 Reach me - ibigqiang@gmail.com
 
 ### My latest online product：
-- [GoShr.link](https://goshr.link/)：Simple, fast and safe url link shortening tool, GoShr short URL tool makes links shorter.
+- <a href="https://goshr.link/" target="_blank">GoShr.link</a>：Simple, fast and safe url link shortening tool, GoShr short URL tool makes links shorter.
 - [SEOhub.Tools](https://seohub.tools/)：Selection of the best Google SEO tools, software, and resources.
 - [AIP.Tools](https://aip.tools/)：Selected AI tools & high-quality resources for building brand IP.
 - [AIPTool](https://aiptool.com/)：2025 The Best AI Websites & Tools for Discovery.
