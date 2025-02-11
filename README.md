@@ -1,15 +1,22 @@
 ## 👋 Hi, I’m @iBigQiang
 
-- 👋 Welcome to my homepage!
-- 💻 Software engineer
-- 🕸  Web Developer
-- ☕️ Inide hacker
-- 📱 Learning AIGC related
-- 📷 Interested in photography
-- 📍 Living in Wuhan, China
-- 📫 Reach me - ibigqiang@gmail.com
-
-![iBigQiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBigQiang&show_icons=true)
+<table>
+  <tr>
+    <td>
+      - 👋 Welcome to my homepage!
+      - 💻 Software engineer
+      - 🕸  Web Developer
+      - ☕️ Inide hacker
+      - 📱 Learning AIGC related
+      - 📷 Interested in photography
+      - 📍 Living in Wuhan, China
+      - 📫 Reach me - ibigqiang@gmail.com
+    </td>
+    <td align="right">
+      ![iBigQiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBigQiang&show_icons=true)
+    </td>
+  </tr>
+</table>
 
 
 <!--
