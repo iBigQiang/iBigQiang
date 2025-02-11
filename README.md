@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m @iBigQiang
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex;">
+  <div style="flex: 1;">
       - 👋 Welcome to my homepage!
       - 💻 Software engineer
       - 🕸  Web Developer
@@ -11,12 +10,11 @@
       - 📷 Interested in photography
       - 📍 Living in Wuhan, China
       - 📫 Reach me - ibigqiang@gmail.com
-    </td>
-    <td align="right">
-      ![iBigQiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBigQiang&show_icons=true)
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    ![iBigQiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBigQiang&show_icons=true)
+  </div>
+</div>
 
 
 <!--
