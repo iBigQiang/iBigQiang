@@ -33,7 +33,7 @@
 🤝愿跟同频的人，一起拥抱 AI。用 AI 整理经验、知识，开发好工具、产品，重建个人 IP 品牌影响力和突破收入。
 
 ### My latest online product：
-- [GoShr.link](https://goshr.link/)：Simple, fast and safe url link shortening tool, GoShr short URL tool makes links shorter.
+- [GoShr.link](https://goshr.link/)：一款简洁、快速且安全的网址链接缩短工具，GoShr短链接工具可将链接缩短。
 - [嗨图象（Hitu Image）](https://hitu.me/zh)：一站式高级 AI 图像生成器。基于 GPT Image 和 Nano Banana 生图模型，支持文生图、图像编辑、风格迁移、背景移除、老照片修复、高清放大。
 - [FeedGrab](https://github.com/iBigQiang/feedgrab/tree/feedgrab-desktop)：免费开源批量抓取采集器。融合几十款 GitHub 开源脚本迭代而来的 vibe coding 产物，已支持 18+ 平台 URL 或关键词批量抓取，统一输出 Obsidian 兼容格式 md 文档，几乎 0 成本。
 - [OPC-X-Reply-Extension](https://github.com/iBigQiang/OPC-X-Reply-Extension)：X 推文互动回复器。一款面向 X / Twitter KOL 的 AI 辅助回复 Chrome 扩展插件，可在推文旁一键生成 3 条中英文评论候选，先编辑草稿后再填入回复框。
@@ -45,8 +45,8 @@
 
 ### 聊合作
 - WeChat：88667178
-- X/Twitter：[@iBigQiang](https://x.com/iBigQiang)
-- GitHub：[@iBigQiang](https://x.com/intent/follow?screen_name=iBigQiang)
+- X/Twitter：[@iBigQiang](https://x.com/intent/follow?screen_name=iBigQiang)
+- GitHub：[@iBigQiang](https://github.com/iBigQiang)
 - Email：[ibigqiang@gmail.com](mailto:ibigqiang@gmail.com)
 
 <!---
